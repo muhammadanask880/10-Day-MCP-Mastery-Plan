@@ -1,0 +1,38 @@
+# --- Secrets — NEVER commit these ---
+.env
+.env.*
+*.token
+*.key
+*.pem
+secrets/
+credentials.json
+
+# --- Student-generated personal files (per-day) ---
+# Each day folder can have these; they're personal, not public.
+**/my-memo.md
+**/my-practice-notes.md
+**/my-quiz-answers.md
+
+# --- OS noise ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- Build / dependencies ---
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+
+# --- Logs ---
+*.log
+npm-debug.log*
