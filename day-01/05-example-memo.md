@@ -2,7 +2,7 @@
 
 > ⚠️ **Don't copy this. Read it, then close the file and write your own.** The whole point of the mini-project is the thinking, not the output.
 
-This is a real memo written by [@muhammadanask880](https://github.com/muhammadanask880) (a solo builder in the GCC market) on Day 1 of his MCP journey.
+This is a real memo I wrote on Day 1 of my own MCP journey through this course. — [@muhammadanask880](https://github.com/muhammadanask880)
 
 ---
 

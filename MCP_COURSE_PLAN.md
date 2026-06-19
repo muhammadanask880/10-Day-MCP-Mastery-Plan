@@ -1,7 +1,7 @@
 # 🎓 10-Day MCP Mastery Plan
 
 > A complete journey from "what is MCP?" to shipping your own MCP server.
-> Tailored for a solo builder in the GCC market — focus on things you can actually ship (WhatsApp agents, property scrapers, support bots) on free-tier infrastructure.
+> Tailored for solo builders — focus on things you can actually ship (WhatsApp agents, property scrapers, support bots) on free-tier infrastructure.
 
 ---
 
@@ -18,7 +18,7 @@
 | **7** | **MCP Clients + Plugging Into Claude** | 7.1 What a client really does · 7.2 Connecting a server to Claude Desktop (config file) · 7.3 Connecting to Claude Code · 7.4 Testing with MCP Inspector | Wire your Day 6 server into Claude Desktop & chat with it | Add your scraper server to Claude Code and use it in a real task |
 | **8** | **Security, Auth, Permissions, Sandboxing** | 8.1 The trust model · 8.2 Why "tools can do anything" is scary · 8.3 OAuth flows for remote servers · 8.4 Secret handling · 8.5 Input validation & prompt injection | Audit your Day 6 server for 3 security holes and fix them | Add API-key auth to a remote-style MCP server |
 | **9** | **Errors, Logging, Debugging + Advanced Features** | 9.1 JSON-RPC error codes · 9.2 Logging without breaking stdio · 9.3 Debugging with Inspector · 9.4 Sampling (server asks model) · 9.5 Roots, progress notifications, cancellation | Break your server 3 ways on purpose, then fix each | Add progress notifications + cancellation to your scraper |
-| **10** | **Publishing + Capstone** | 10.1 Packaging (npm/pip/uv) · 10.2 README essentials · 10.3 Sharing & discoverability · 10.4 **Capstone**: design + build + ship a useful MCP server | Publish a tiny test package | **Capstone**: a real MCP server you'd actually use (e.g., WhatsApp message drafter, Dubai property listing scraper, or GCC customer-support knowledge base) |
+| **10** | **Publishing + Capstone** | 10.1 Packaging (npm/pip/uv) · 10.2 README essentials · 10.3 Sharing & discoverability · 10.4 **Capstone**: design + build + ship a useful MCP server | Publish a tiny test package | **Capstone**: a real MCP server you'd actually use (e.g., WhatsApp message drafter, property listing scraper, or customer-support knowledge base) |
 
 ---
 

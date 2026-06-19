@@ -1,6 +1,6 @@
 # 🎓 10-Day MCP Mastery Plan
 
-> A self-taught journey through the **Model Context Protocol (MCP)** — built day-by-day by [@muhammadanask880](https://github.com/muhammadanask880) as he learned, and published so anyone can learn the same way.
+> My self-taught journey through the **Model Context Protocol (MCP)** — I'm [@muhammadanask880](https://github.com/muhammadanask880), and I'm building this course day-by-day as I learn, so anyone can follow the same path.
 
 [![Status](https://img.shields.io/badge/status-in%20progress-blue)]()
 [![Day 1](https://img.shields.io/badge/Day%201-complete-brightgreen)]()
@@ -117,4 +117,4 @@ MIT — use it, fork it, teach with it, build on it.
 
 ---
 
-*Built while learning, taught while building. Salaam from the GCC. 🌍*
+*Built while learning, taught while building.*
