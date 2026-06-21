@@ -3,7 +3,7 @@
 > My self-taught journey through the **Model Context Protocol (MCP)** — I'm [@muhammadanask880](https://github.com/muhammadanask880), and I'm building this course day-by-day as I learn, so anyone can follow the same path.
 
 [![Status](https://img.shields.io/badge/status-in%20progress-blue)]()
-[![Day 1](https://img.shields.io/badge/Day%201-complete-brightgreen)]()
+[![Day 2](https://img.shields.io/badge/Day%202-complete-brightgreen)]()
 
 ---
 
@@ -57,8 +57,8 @@ See [MCP_COURSE_PLAN.md](MCP_COURSE_PLAN.md) for the full table. Quick view:
 | Day | Topic | Status |
 |-----|-------|--------|
 | [01](day-01/) | What MCP Is & Why It Exists | ✅ Complete |
-| 02 | MCP Architecture (Hosts, Clients, Servers, Transports) | 🚧 Coming |
-| 03 | JSON-RPC: The Language Underneath | ⬜ |
+| [02](day-02/) | MCP Architecture (Hosts, Clients, Servers, Transports) | ✅ Complete |
+| 03 | JSON-RPC: The Language Underneath | 🚧 Coming |
 | 04 | Tools (Deep Dive) | ⬜ |
 | 05 | Resources + Prompts | ⬜ |
 | 06 | Initialization Handshake & First Real Server | ⬜ |
@@ -99,7 +99,14 @@ MCP-Course/
 │   ├── 03-mini-project.md
 │   ├── 04-quiz.md
 │   └── 05-example-memo.md
-└── day-02/  (coming)
+├── day-02/                  ← Day 2 (complete)
+│   ├── README.md
+│   ├── 01-lessons.md
+│   ├── 02-practice.md
+│   ├── 03-mini-project.md
+│   ├── 04-quiz.md
+│   └── 05-example-architectures.md
+└── day-03/  (coming)
     └── ...
 ```
 
